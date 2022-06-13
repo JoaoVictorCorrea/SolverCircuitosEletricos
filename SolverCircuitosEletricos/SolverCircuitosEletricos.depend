@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1652811741 source:c:\users\1\documents\downloads\solvercircuitoseletricos\calculamatrizinversa.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"CalculaMatrizInversa.h"
+
+1652744153 source:c:\users\1\documents\downloads\solvercircuitoseletricos\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1652811697 c:\users\1\documents\downloads\solvercircuitoseletricos\calculamatrizinversa.h
+
+1652898608 source:c:\users\jvcor\downloads\solvercircuitoseletricos\calculamatrizinversa.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"CalculaMatrizInversa.h"
+
+1652901081 c:\users\jvcor\downloads\solvercircuitoseletricos\calculamatrizinversa.h
+
+1652901110 source:c:\users\jvcor\downloads\solvercircuitoseletricos\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<locale.h>
+	"CalculaMatrizInversa.h"
+
+1653047926 source:e:\ensino superior\ciência da computação - ifsp\3 semestre\eletrecidade e magnetismo\solvercircuitoseletricos\calculamatrizinversa.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"CalculaMatrizInversa.h"
+
+1653003520 e:\ensino superior\ciência da computação - ifsp\3 semestre\eletrecidade e magnetismo\solvercircuitoseletricos\calculamatrizinversa.h
+
+1653047758 source:e:\ensino superior\ciência da computação - ifsp\3 semestre\eletrecidade e magnetismo\solvercircuitoseletricos\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<locale.h>
+	"CalculaMatrizInversa.h"
+
